@@ -7,6 +7,7 @@ The studies i have done with the information i have obtained from the course.
 2. video_okuma_izleme
 3. cizim
 4. temel islemler
+5. Haar Cascade
 
 # Images
 In this study photos are taken from here, https://unsplash.com/ and https://www.pexels.com/tr-tr/.
